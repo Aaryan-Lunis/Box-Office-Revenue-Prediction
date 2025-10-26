@@ -1,0 +1,17 @@
+MOVIE REVENUE PREDICTION - MODEL EVALUATION REPORT
+============================================================
+
+Model Performance Summary:
+                    Model  Test_R2      Test_RMSE      Test_MAE  CV_RMSE_Mean   CV_RMSE_Std
+        Gradient Boosting   0.7639  93678946.8074 45133837.7764 85595256.4171  9376696.7213
+    Random Forest (Tuned)   0.7415  98014666.2369 44877048.2187 80996590.1612 11857232.2233
+Gradient Boosting (Tuned)   0.7365  98955651.3725 44881440.7502 83264262.3071 11639049.7373
+            Random Forest   0.7363  99003586.2349 45810672.5687 80944907.3594 11804274.3691
+         Ridge Regression   0.7262 100874773.1269 51358292.9891 87389057.7896  7969097.2409
+         Lasso Regression   0.7262 100884057.1654 51375762.7748 87391112.6417  7961108.1180
+        Linear Regression   0.7262 100884058.0557 51375764.4279 87391112.9260  7961107.8367
+
+Best Performing Model: Gradient Boosting
+R² Score: 0.7639
+RMSE: $93,678,947
+MAE: $45,133,838

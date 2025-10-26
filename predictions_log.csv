@@ -1,0 +1,45 @@
+movie_name,budget,runtime,vote_average,vote_count,popularity,release_year,release_month,primary_genre,lead_actor,director,production_company,predicted_revenue,
+a,50000000,120,7,50000,50,2025,8,Action,a,a,Walt Disney Pictures,265823320.7,
+Spiderman: Brand New Day,50000000,140,9.2,75000,90,2026,7,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,499963457.8,
+Spiderman: Brand New Day,50000000,140,9.2,85000,95,2026,7,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,499963457.8,
+Spiderman: Brand New Day,200000000,140,9.2,85000,95,2026,7,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1831155841,
+Spiderman: Brand New Day,200000000,140,9.2,80000,90,2026,7,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1831155841,
+Spiderman: Brand new day,200000000,150,9,80000,80,2026,7,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1752295316,
+Spiderman: Brand new day,600000,150,9,8000,40,2026,7,Documentary,Chunky Pandey,Piyush Ladhani,Independent,421281472.4,
+Spiderman: Brand new day,1000,150,9,8000,40,2026,7,Documentary,Chunky Pandey,Piyush Ladhani,Independent,421281472.4,
+Spiderman: Brand new day,1000,150,9,800,40,2026,7,Documentary,Chunky Pandey,Piyush Ladhani,Independent,189191558.6,
+bejvbe,500000,120,5.2,5000,25,2025,8,Action,tom,mark,Independent,350398996.2,
+bejvbe,5000000,120,5.2,5000,25,2025,8,Action,tom,mark,Independent,306344391.3,
+bejvbe,50000000,120,5.2,5000,25,2025,8,Action,tom,mark,Independent,404788253.1,
+Babylon,160000000,189,7,15300,44.1,2022,12,Drama,Diego Calva,Damien Chazelle,Independent,1340764299,
+Babylon,160000000,189,7,153000,441,2022,12,Drama,Diego Calva,Damien Chazelle,Independent,1840299367,
+Generic Action Flop,5000000,120,7,500,5,2025,2,Horror,Jash Ladhani,Piyush Ladhani,Independent,41045257.65,
+Generic Horror Sequel 5,2000000,85,7,500,2,2025,1,Horror,Unknown Actor,First Time Director,Independent,51156453.83,
+ss,50000000,140,6.5,923,11.25,2025,8,Action,sssa,wwww,Walt Disney Pictures,141884171.6,
+cewvs,50000000,120,6.5,4128,14.5,2025,8,Action,Chris Evans,cbda,Walt Disney Pictures,206626743.3,
+Spiderman: Brand New Day,200000000,140,6.5,25000,15,2025,8,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1658670687,
+Spiderman: Brand New Day,200000000,135,6.5,25000,15,2026,7,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1661630656,
+ascceda,199001000,120,6.5,25000,15,2025,8,Action,csacwc,wqfcsaq,Walt Disney Pictures,1294062470,
+ascceda,200000000,120,6.5,25000,15,2025,8,Action,csacwc,wqfcsaq,Walt Disney Pictures,1294062470,
+ascceda,200000000,120,6.5,25000,15,2025,8,Action,csacwc,wqfcsaq,Sony Pictures,1294062470,
+Avengers: Doomsday,600000000,140,6.5,25000,15,2026,12,Action,Robert Downey jr,"Anthony Russo, Joe Russo",Sony Pictures,1777736286,
+Avengers: Doomsday,600000000,140,6.5,50000,15,2026,12,Action,Robert Downey jr,"Anthony Russo, Joe Russo",Sony Pictures,1807611156,
+Avengers: Doomsday,600000000,140,6.5,50000,30,2026,12,Action,Robert Downey jr,"Anthony Russo, Joe Russo",Sony Pictures,2036727040,
+Avengers: Doomsday,600000000,140,6.5,50000,30,2026,12,Action,Robert Downey jr,"Anthony Russo, Joe Russo",Sony Pictures,2036727040,
+Avengers: Doomsday,600000000,140,6.5,50000,30,2026,12,Action,Robert Downey jr,"Anthony Russo, Joe Russo",Independent,2036727040,
+Spiderman,200000000,120,6.5,250000,150,2025,9,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1442304975,
+Spiderman,200000000,120,6.5,250000,900,2025,9,Action,Tom Holland,Destin Daniel Cretton,Sony Pictures,1851161702,
+Spiderman: Brand New Day,200000000,130,6319,22.1,2026,7,Action,Robert Downey Jr.,Daniel Destin Cretton,Sony Pictures,866159928.9,23-10-2025 15:08,
+Spiderman: Brand New Day,250000000,130,6319,22.1,2026,7,Action,Robert Downey Jr.,Daniel Destin Cretton,Sony Pictures,908750186.5,23-10-2025 15:09,
+Avengers Endgame,450000000,130,3224,26.1,2026,7,Action,Chris Hemsworth,Anthony Russo,Sony Pictures,1051926669.8797009,2025-10-23 15:13:32
+Avengers Endgame,450000000,130,6319,22.1,2026,7,Action,Robert Downey Jr.,Anthony Russo,Sony Pictures,999411701.5909222,2025-10-23 15:14:11
+Avengers Endgame,450000000,130,3224,26.1,2026,7,Action,Chris Hemsworth,Anthony Russo,Sony Pictures,1051926669.8797009,2025-10-23 15:16:05
+Looper,30000000,119,25000,15.0,2026,7,Action,Bruce willis,Anthony Russo,Sony Pictures,296202750.9688499,2025-10-23 15:18:11
+Avengers Endgame,450000000,120,6319,22.1,2025,10,Action,Robert Downey Jr.,Anthony Russi,Walt Disney Pictures,763944071.0219984,2025-10-25 17:37:00
+The Night Before,25000000,120,100,0.9,2025,10,Drama,Anthony Mackie,Jonathan Levine,Walt Disney Pictures,44876663.16542651,2025-10-25 17:45:20
+The Night Before,25000000,120,100,0.9,2025,10,Drama,Anthony Mackie,Jonathan Levine,Walt Disney Pictures,44876663.16542651,2025-10-25 17:45:30
+The Night Before,25000000,120,100,0.9,2025,10,Drama,Anthony Mackie,Jonathan Levine,Walt Disney Pictures,44876663.16542651,2025-10-25 17:45:34
+The Night Before,25000000,120,100,0.9,2025,10,Drama,Joseph Gordon-Levitt,Jonathan Levine,Walt Disney Pictures,44876663.16542651,2025-10-25 17:46:07
+The Night Before,25000000,120,623,9.8,2025,10,Drama,Joseph Gordon-Levitt,Jonathan Levine,Walt Disney Pictures,61186256.852770776,2025-10-25 17:46:15
+Taare Zameen Par,15000000,120,234,5.2,2025,10,Drama,Aamir Khan,Amole Gupte,Independent,31175878.41987393,2025-10-25 17:55:09
+The night life,15000000,120,10,0.9,2025,10,Drama,Anthony Mackie,Jamie Scott,Walt Disney Pictures,31488284.170692064,2025-10-25 23:02:26
