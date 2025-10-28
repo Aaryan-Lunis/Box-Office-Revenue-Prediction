@@ -1,6 +1,6 @@
 # Box Office Revenue Prediction: An Ensemble Learning Approach with Feature Engineering and Comprehensive Evaluation
 
-**Author:** Aaryan Lunis
+**Author:** Aaryan Lunis 
 **Institution:** Department of Computer Engineering, Mukesh Patel School of Technology Management & Engineering, SVKM’s NMIMS, Mumbai, India
 **Repository:** [Box-Office-Revenue-Prediction](https://github.com/Aaryan-Lunis/Box-Office-Revenue-Prediction)
 **Python Version:** 3.10+
